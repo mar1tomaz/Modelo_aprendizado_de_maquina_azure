@@ -1,7 +1,3 @@
-# Modelo_aprendizado_de_maquina_azure
-Modelo de previsão com seus devidos pontos de extremidade configurados e passo a passo desse process.
-Explore o aprendizado de máquina
-automatizado no Azure Machine Learning
 Neste exercício, você usará o recurso de aprendizado de máquina automatizado no Azure Machine Learning
 para treinar e avaliar um modelo de aprendizado de máquina. Em seguida, você implantará e testará o modelo
 treinado.
